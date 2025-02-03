@@ -8,7 +8,7 @@
 
 > Brain Tumor detection and localization from Brain MRI Scans using Deep Learning.
 
-> Index Terms—Brain Tumor Detection, Deep Learning, Residual Network, Convoluted Neural Network
+> Index Terms—Brain Tumor Detection, Deep Learning, Residual Network, Convoluted Neural Networks
 
 
 <!-- ABOUT THE PROJECT -->
